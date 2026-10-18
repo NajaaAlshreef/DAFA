@@ -1,11 +1,15 @@
 # DAFA
-DAFA: notebook + code 
+ 
 # DAFA: Distance-Aware Fair Adversarial Training
 
 This repository contains the official implementation of "[DAFA: Distance-Aware Fair Adversarial Training](https://openreview.net/pdf?id=BRdEBlwUW6)" published at ICLR 2024.
 
 
-![intro fig](./figs/fig_intro_main.jpg)
+## Acknowledgement & Original Repository
+This repository contains my personal notes, code implementation, and Jupyter Notebooks based on the official paper:
+- **Paper Title:** Distance-Aware Fair Adversarial Training (DAFA) [ICLR 2024]
+- **Original Authors:** Hyungyu Lee et al.
+- **Official GitHub Repository:** [https://github.com/rucy74/DAFA](https://github.com/rucy74/DAFA)
 
 ## Abstract
 
